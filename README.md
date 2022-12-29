@@ -28,6 +28,6 @@ Chạy file python train.py
 Có thể dùng weights có sẵn hoặc train lại từ đầu
 Chạy file test python test.py và xem kết quả
 
-Tham khảo
+
 Project tham khảo từ https://github.com/maxbren/GO-Bot-DRL
 
